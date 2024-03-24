@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Support Vector Machine PoC
